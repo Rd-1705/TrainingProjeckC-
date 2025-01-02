@@ -10,5 +10,6 @@ namespace pertemuan2C_Lanjutan.Models
         }
        
         public virtual DbSet<Customer> Customers { get; set; }
+        public virtual DbSet<Item> Items { get; set; }
     }
 }

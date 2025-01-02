@@ -1,30 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\C#\\pertemuan2C#Lanjutan\\",
+  "WorkspaceRootPath": "C:\\C#\\pertemuan2C# lanjutan\\pertemuan2C#Lanjutan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CAE7544-4676-4F27-9E79-1763C045D24C}|pertemuan2C#Lanjutan.csproj|c:\\c#\\pertemuan2c#lanjutan\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CAE7544-4676-4F27-9E79-1763C045D24C}|pertemuan2C#Lanjutan.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CAE7544-4676-4F27-9E79-1763C045D24C}|pertemuan2C#Lanjutan.csproj|c:\\c#\\pertemuan2c# lanjutan\\pertemuan2c#lanjutan\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAE7544-4676-4F27-9E79-1763C045D24C}|pertemuan2C#Lanjutan.csproj|solutionrelative:controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CAE7544-4676-4F27-9E79-1763C045D24C}|pertemuan2C#Lanjutan.csproj|c:\\c#\\pertemuan2c#lanjutan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CAE7544-4676-4F27-9E79-1763C045D24C}|pertemuan2C#Lanjutan.csproj|c:\\c#\\pertemuan2c# lanjutan\\pertemuan2c#lanjutan\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAE7544-4676-4F27-9E79-1763C045D24C}|pertemuan2C#Lanjutan.csproj|solutionrelative:services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAE7544-4676-4F27-9E79-1763C045D24C}|pertemuan2C#Lanjutan.csproj|c:\\c#\\pertemuan2c# lanjutan\\pertemuan2c#lanjutan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CAE7544-4676-4F27-9E79-1763C045D24C}|pertemuan2C#Lanjutan.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CAE7544-4676-4F27-9E79-1763C045D24C}|pertemuan2C#Lanjutan.csproj|c:\\c#\\pertemuan2c#lanjutan\\services\\costomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CAE7544-4676-4F27-9E79-1763C045D24C}|pertemuan2C#Lanjutan.csproj|solutionrelative:services\\costomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CAE7544-4676-4F27-9E79-1763C045D24C}|pertemuan2C#Lanjutan.csproj|c:\\c#\\pertemuan2c#lanjutan\\models\\db\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CAE7544-4676-4F27-9E79-1763C045D24C}|pertemuan2C#Lanjutan.csproj|solutionrelative:models\\db\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CAE7544-4676-4F27-9E79-1763C045D24C}|pertemuan2C#Lanjutan.csproj|c:\\c#\\pertemuan2c#lanjutan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6CAE7544-4676-4F27-9E79-1763C045D24C}|pertemuan2C#Lanjutan.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CAE7544-4676-4F27-9E79-1763C045D24C}|pertemuan2C#Lanjutan.csproj|c:\\c#\\pertemuan2c#lanjutan\\migrations\\20241222050504_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CAE7544-4676-4F27-9E79-1763C045D24C}|pertemuan2C#Lanjutan.csproj|solutionrelative:migrations\\20241222050504_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CAE7544-4676-4F27-9E79-1763C045D24C}|pertemuan2C#Lanjutan.csproj|c:\\c#\\pertemuan2c# lanjutan\\pertemuan2c#lanjutan\\models\\db\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAE7544-4676-4F27-9E79-1763C045D24C}|pertemuan2C#Lanjutan.csproj|solutionrelative:models\\db\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,80 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\C#\\pertemuan2C#Lanjutan\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\C#\\pertemuan2C#Lanjutan\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\pertemuan2C# lanjutan\\pertemuan2C#Lanjutan\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\C#\\pertemuan2C# lanjutan\\pertemuan2C#Lanjutan\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T06:00:13.003Z",
+              "WhenOpened": "2025-01-02T19:30:09.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CostomerService.cs",
-              "DocumentMoniker": "C:\\C#\\pertemuan2C#Lanjutan\\Services\\CostomerService.cs",
-              "RelativeDocumentMoniker": "Services\\CostomerService.cs",
-              "ToolTip": "C:\\C#\\pertemuan2C#Lanjutan\\Services\\CostomerService.cs",
-              "RelativeToolTip": "Services\\CostomerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\C#\\pertemuan2C# lanjutan\\pertemuan2C#Lanjutan\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ItemController.cs",
+              "ToolTip": "C:\\C#\\pertemuan2C# lanjutan\\pertemuan2C#Lanjutan\\Controllers\\ItemController.cs*",
+              "RelativeToolTip": "Controllers\\ItemController.cs*",
+              "ViewState": "AgIAADcAAAAAAAAAAAAowE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T05:40:02.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20241222050504_InitialMigration.cs",
-              "DocumentMoniker": "C:\\C#\\pertemuan2C#Lanjutan\\Migrations\\20241222050504_InitialMigration.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241222050504_InitialMigration.cs",
-              "ToolTip": "C:\\C#\\pertemuan2C#Lanjutan\\Migrations\\20241222050504_InitialMigration.cs",
-              "RelativeToolTip": "Migrations\\20241222050504_InitialMigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T05:05:04.824Z"
+              "WhenOpened": "2025-01-02T19:29:44.874Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\C#\\pertemuan2C#Lanjutan\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\C#\\pertemuan2C#Lanjutan\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\C#\\pertemuan2C# lanjutan\\pertemuan2C#Lanjutan\\Services\\ItemService.cs",
+              "RelativeDocumentMoniker": "Services\\ItemService.cs",
+              "ToolTip": "C:\\C#\\pertemuan2C# lanjutan\\pertemuan2C#Lanjutan\\Services\\ItemService.cs*",
+              "RelativeToolTip": "Services\\ItemService.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T04:55:11.073Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\C#\\pertemuan2C#Lanjutan\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\C#\\pertemuan2C#Lanjutan\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-22T04:49:01.99Z"
+              "WhenOpened": "2025-01-02T19:27:00.556Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\C#\\pertemuan2C#Lanjutan\\Models\\DB\\Customer.cs",
-              "RelativeDocumentMoniker": "Models\\DB\\Customer.cs",
-              "ToolTip": "C:\\C#\\pertemuan2C#Lanjutan\\Models\\DB\\Customer.cs",
-              "RelativeToolTip": "Models\\DB\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\C#\\pertemuan2C# lanjutan\\pertemuan2C#Lanjutan\\Models\\DB\\Item.cs",
+              "RelativeDocumentMoniker": "Models\\DB\\Item.cs",
+              "ToolTip": "C:\\C#\\pertemuan2C# lanjutan\\pertemuan2C#Lanjutan\\Models\\DB\\Item.cs",
+              "RelativeToolTip": "Models\\DB\\Item.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBgAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T04:30:44.797Z"
+              "WhenOpened": "2025-01-02T19:17:35.738Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pertemuan2C#Lanjutan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad4479f0a281b78cdaea6f1318cceebe149c6537")]
 [assembly: System.Reflection.AssemblyProductAttribute("pertemuan2C#Lanjutan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pertemuan2C#Lanjutan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
